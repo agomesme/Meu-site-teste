@@ -1,0 +1,41 @@
+body {
+    background-color:  black;
+    color: white;
+    }
+#title {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.um {
+    color: brown;
+ }
+  #dois {
+    width: 40%;
+    height: 140px;
+    font-size: 20px;
+  }   
+    .cor {
+      color: rebeccapurple;
+  }
+  .back {
+      background-color: rebeccapurple;
+  }
+  .borda {
+      width: 400px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      border: 6px ridge rebeccapurple;
+  }
+  .imagem1 {
+      width: 300px;
+      position: relative;
+      top: 10px;
+      left: 10px;
+      border: 6px groove yellow;
+      margin-right: 6px;
+      margin-bottom: 6px;
+  }
+  .suculenta {
+      position: relative;
+      
+    }
