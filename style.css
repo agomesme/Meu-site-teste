@@ -10,8 +10,6 @@ body {
     color: brown;
  }
   #dois {
-    width: 40%;
-    height: 140px;
     font-size: 20px;
   }   
     .cor {
@@ -26,16 +24,20 @@ body {
       margin-bottom: 10px;
       border: 6px ridge rebeccapurple;
   }
-  .imagem1 {
-      width: 300px;
-      position: relative;
-      top: 10px;
-      left: 10px;
-      border: 6px groove yellow;
-      margin-right: 6px;
-      margin-bottom: 6px;
-  }
-  .suculenta {
-      position: relative;
-      
-    }
+
+.parte2 {
+    align: justify;
+}
+
+@keyframes BackgroundTransition {
+    0% {
+		background-position: 0% 80%;
+	}
+	50% {
+		background-position: 80% 100%;
+	}
+	100% {
+		background-position: 0% 90%;
+}
+}
+
